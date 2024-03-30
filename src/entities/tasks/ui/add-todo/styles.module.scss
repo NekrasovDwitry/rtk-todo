@@ -1,0 +1,29 @@
+.addtodo{
+  margin: 30px 0;
+}
+
+.taskinput{
+  height : 45px;
+  width : 300px;
+  border : 1px solid black;
+  border-radius: 6px;
+  padding : 2px 10px;
+  margin-right : 10px;
+}
+
+.taskinput:focus {
+  outline: none;
+}
+
+.taskbutton{
+  height : 49px;
+  width : 100px;
+  border : 1px solid black;
+  border-radius: 6px;
+  background-color: lightgray;
+  color:black;
+}
+
+.taskbutton:hover{
+  cursor: pointer;
+}

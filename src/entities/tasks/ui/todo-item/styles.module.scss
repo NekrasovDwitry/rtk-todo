@@ -1,0 +1,19 @@
+.taskitem{
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+  padding : 8px 40px;
+}
+
+.removetaskbutton{
+  background-color: lightgray;
+  height: 32px;
+  color: black;
+  border-radius: 4px;
+  width: 70px;
+  border: 1px solid black;
+}
+
+.removetaskbutton:hover{
+  cursor: pointer;
+}
